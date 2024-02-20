@@ -1,0 +1,13 @@
+input {
+  width: 100%;
+}
+
+.todo-item {
+  text-align: left;
+}
+.hs-row {
+  margin: 10px 5px;
+}
+.hs-button {
+  max-width: 80px;
+}
